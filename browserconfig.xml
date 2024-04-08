@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <!-- اسم المستودع -->
+      <RepositoryName>XyzSiwane/Siwane-PWAs</RepositoryName>
+      <!-- الفرع -->
+      <Branch>main</Branch>
+      <!-- مسار الملفات -->
+      <Files>
+        <File>/path/to/android-icon-144x144.png</File>
+        <File>/path/to/android-icon-192x192.png</File>
+        <File>/path/to/android-icon-36x36.png</File>
+        <File>/path/to/android-icon-48x48.png</File>
+        <File>/path/to/android-icon-512x512.png</File>
+        <File>/path/to/android-icon-72x72.png</File>
+        <File>/path/to/android-icon-96x96.png</File>
+        <File>/path/to/apple-icon-114x114.png</File>
+        <File>/path/to/apple-icon-120x120.png</File>
+        <File>/path/to/apple-icon-144x144.png</File>
+        <File>/path/to/apple-icon-152x152.png</File>
+        <File>/path/to/apple-icon-180x180.png</File>
+        <File>/path/to/apple-icon-57x57.png</File>
+        <File>/path/to/apple-icon-60x60.png</File>
+        <File>/path/to/apple-icon-72x72.png</File>
+        <File>/path/to/apple-icon-76x76.png</File>
+        <File>/path/to/apple-icon-precomposed.png</File>
+        <File>/path/to/apple-icon.png</File>
+        <File>/path/to/favicon-16x16.png</File>
+        <File>/path/to/favicon-32x32.png</File>
+        <File>/path/to/favicon-96x96.png</File>
+        <File>/path/to/favicon.ico</File>
+        <File>/path/to/ms-icon-144x144.png</File>
+        <File>/path/to/ms-icon-150x150.png</File>
+        <File>/path/to/ms-icon-310x310.png</File>
+        <File>/path/to/ms-icon-70x70.png</File>
+        <File>/path/to/scr1.png</File>
+        <File>/path/to/scr2.png</File>
+        <File>/path/to/scr3.png</File>
+        <File>/path/to/scr4.png</File>
+        <File>/path/to/scr5.png</File>
+        <File>/path/to/scr6.png</File>
+        <!-- إضافة الملفات الأخرى هنا -->
+      </Files>
+    </tile>
+  </msapplication>
+</browserconfig>
